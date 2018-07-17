@@ -5,3 +5,4 @@ To do:
 - [ ] Gather list of interesting papers from ICML
 - [ ] Find some iterative schemes for sketching methods
 - [ ] Convex constrained LSQ qith sparse sketches
+- [ ] How small can can we make the preconditioner?
